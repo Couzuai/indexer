@@ -66,7 +66,6 @@ type Fetcher interface {
 
 ## Usage
 
-```sh
+```bash
 >> go run main.go
-```
-
+```  
